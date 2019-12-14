@@ -1,0 +1,10 @@
+[package]
+name = "seraph"
+description = "A Matrix bot API in Rust"
+authors = ["Inityx", "irandms"]
+version = "0.1.0"
+license = "LGPL-2.1-or-later"
+edition = "2018"
+repository = "https://github.com/Inityx/seraph"
+
+[dependencies]
